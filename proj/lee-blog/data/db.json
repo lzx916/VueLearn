@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "A new post",
+      "body": "jjdjjjdjjdjdjdjjdjdjdj",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "A new post",
+      "body": "jjdjjjdjjdjdjdjjdjdjdj",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 4
+    },
+    {
+      "title": "kkk",
+      "body": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "tags": [
+        "kk"
+      ],
+      "id": 5
+    },
+    {
+      "title": "lll",
+      "body": "llllllllllll",
+      "tags": [
+        "ll",
+        "l"
+      ],
+      "id": 6
+    },
+    {
+      "title": "learn vue.js",
+      "body": "learn learn learn",
+      "tags": [
+        "vue",
+        "js"
+      ],
+      "id": 7
+    }
+  ]
+}
